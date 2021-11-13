@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Go](<../Arrays/136. Single Number.md>) | 🟢 | ✅ |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](<../Arrays/217. Contains Duplicate.md>) | 🟢 | ✅ |
-| [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Go](<../Arrays/268. Missing Number.md>) | 🟢 | ⬜ |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Go](<../Arrays/268. Missing Number.md>) | 🟢 | ✅ |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Go](#find-all-numbers-disappeared-in-an-array) | 🟢 | ⬜  |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go](#rotate-image) | 🟠 | ⬜ |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Go](#spiral-matrix) | 🟠 | ⬜  |
