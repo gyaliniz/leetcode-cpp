@@ -1,7 +1,5 @@
 # Arrays
 
-## **Number of Questions: 12**
-
 | Leetcode  | Solution | Difficulty | Solved |
 | --- | --- | --- | --- |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Go](<../Arrays/Solutions/136. Single Number.md>) | 🟢 | ✅ |
