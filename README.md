@@ -14,7 +14,7 @@
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window) | 10 | 1| 🟠 | 🟢 |   |
 | [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)| 12 | 8 | 🟠 | 🟢 |  |
 | [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs) | 19 | 0| 🟠 | 🟢 |   |
-| [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap) | 9 | 0| 🟠 | 🟢 |  |
+| [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap) | 10 | 0| 🟠 | 🟢 |  |
 | [Trie](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Trie) | 8 | 0 | 🟠 | 🟠 |  |
 | [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design) | 2 | 0| 🟠 | 🟠 |   |
 | [Intervals](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Intervals) | 6 | 0| 🟠 | 🟠 | |
@@ -25,7 +25,7 @@
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
 | [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 20 | 7 | 🔴 | 🔴  |  |
-| Total (Shared)| 171 | 33 | | |
+| Total (Shared)| 172 | 33 | | |
 
 ---
 
