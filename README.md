@@ -1,5 +1,6 @@
 # Clean Code Solutions of Leetcode Problems (C++)
 
+## Patterns
 
 | Pattern  | Question | Completed | Difficulty | ROI | Solved |
 | --- | --- | --- | --- | --- | --- |
@@ -8,24 +9,77 @@
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bit%20Manipulation) | 1 | 1 | 🟢 | 🟢 | ✅ |
 | [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers) | 10 | 3 | 🟢 | 🟢 |   |
 | [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers) | 8 | 3 | 🟢 | 🟢 |   |
-| [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 0 | 0| 🟢 | 🟠 |  |
-| [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 0 | 0| 🟢 | 🔴 |  |
+| [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6 | 1| 🟢 | 🟠 |  |
+| [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 1 | 0| 🟢 | 🔴 |  |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window) | 10 | 1| 🟠 | 🟢 |   |
 | [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)| 11 | 7 | 🟠 | 🟢 |  |
 | [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs) | 0 | 0| 🟠 | 🟢 |   |
 | [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap) | 0 | 0| 🟠 | 🟢 |  |
-| [Trie](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Trie) | 0 | 0| 🟠 | 🟠 |  |
-| [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design) | 0 | 0| 🟠 | 🟠 |   |
+| [Trie](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Trie) | 8 | 0 | 🟠 | 🟠 |  |
+| [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design) | 2 | 0| 🟠 | 🟠 |   |
 | [Intervals](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Intervals) | 0 | 0| 🟠 | 🟠 | |
-| [Bucket Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bucket%20Sort) | 0 | 0| 🟠 | 🔴 |  |
-| [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 0 | 0| 🟠 | 🔴 |  |
+| [Bucket Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bucket%20Sort) | 1 | 0| 🟠 | 🔴 |  |
+| [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 6 | 0| 🟠 | 🔴 |  |
 | [Graph](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Graph) | 0 | 0| 🔴 | 🟢 |   |
-| [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 0 | 0| 🔴 | 🟠 |  |
+| [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 6 | 0| 🔴 | 🟠 |  |
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 0 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 0 | 0| 🔴 | 🔴  |  |
 | [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 0 | 0| 🔴 | 🔴  |  |
-| Total (Shared)| 170 | 32 | | |
+| Total (Shared)| 170 | 33 | | |
 
+---
+
+## Tips
+
+If input array is sorted then
+- Binary search
+- Two pointers
+
+If asked for all permutations/subsets then
+- Backtracking
+
+If given a tree then
+- DFS
+- BFS
+
+If given a graph then
+- DFS
+- BFS
+
+If given a linked list then
+- Two pointers
+
+If recursion is banned then
+- Stack
+
+If must solve in-place then
+- Swap corresponding values
+- Store one or more different values in the same pointer
+
+If asked for maximum/minumum subarray/subset/options then
+- Dynamic programming
+
+If asked for top/least K items then
+- Heap
+
+If asked for common strings then
+- Map
+- Trie
+
+Else
+- Map/Set for O(1) time & O(n) space
+- Sort input for O(nlogn) time and O(1) space
+
+---
+
+## Acknowledgements
+- [Blind Curated 75 Question List](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+
+- [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+- [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)
 <!--
 | []() | [Go](<..//Solutions/.md>) | 🟢 | |
 -->
