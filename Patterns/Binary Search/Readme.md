@@ -2,7 +2,7 @@
 
 | Leetcode  | Solution | Difficulty | Solved |
 | --- | --- | --- | --- |
-| [704. Binary Search](https://leetcode.com/problems/binary-search/) | [Go](<../Binary Search/Solutions/704. Binary Search.md>) | 🟢 |    |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | [Go](<../Binary Search/Solutions/704. Binary Search.md>) | 🟢 |  🟢  |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Go](<../Binary Search/Solutions/744. Find Smallest Letter Greater Than Target.md>) | 🟢 |    |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Go](<../Binary Search/Solutions/852. Peak Index in a Mountain Array.md>) | 🟢 |    |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Go](<../Arrays/Solutions/287. Find the Duplicate Number.md>) | 🟠 |  ✅  |
