@@ -5,10 +5,10 @@
 | Pattern  | Question | Completed | Difficulty | ROI | Solved |
 | --- | --- | --- | --- | --- | --- |
 | [Array](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Arrays)| 12 | 12 | 🟢 | 🟢 | ✅ |
-| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Binary%20Search) | 13 | 5| 🟢 | 🟢 |  |
+| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Binary%20Search) | 13 | 8 | 🟢 | 🟢 |  |
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bit%20Manipulation) | 1 | 1 | 🟢 | 🟢 | ✅ |
-| [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers) | 10 | 3 | 🟢 | 🟢 |   |
-| [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers) | 8 | 3 | 🟢 | 🟢 |   |
+| [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers) | 10 | 5 | 🟢 | 🟢 |   |
+| [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers) | 8 | 5 | 🟢 | 🟢 |   |
 | [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6 | 1| 🟢 | 🟠 |  |
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 1 | 0| 🟢 | 🔴 |  |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window) | 10 | 1| 🟠 | 🟢 |   |
@@ -25,7 +25,7 @@
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
 | [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 20 | 7 | 🔴 | 🔴  |  |
-| Total (Shared)| 172 | 45 | | |
+| Total (Shared)| 172 | 49 | | |
 
 ---
 
