@@ -4,10 +4,10 @@
 | Pattern  | Question | Completed | Difficulty | ROI | Solved |
 | --- | --- | --- | --- | --- | --- |
 | [Array](https://github.com/gyaliniz/leetcode-cpp/tree/main/Arrays)| 12 | 12 | 🟢 | 🟢 | ✅ |
-| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Binary-Search) | 0 | 0| 🟢 | 🟢 |  |
+| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Binary-Search) | 13 | 5| 🟢 | 🟢 |  |
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Bit-Manipulation) | 3 | 3 | 🟢 | 🟢 | ✅ |
 | [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Fast-Slow-Pointers) | 10 | 3 | 🟢 | 🟢 |   |
-| [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Two-Pointers) | 0 | 0| 🟢 | 🟢 |   |
+| [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Two-Pointers) | 8 | 0| 🟢 | 🟢 |   |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Sliding-Window) | 0 | 0| 🟢 | 🟢 |   |
 | [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/In-Place-Reversal-of-Linked-List) | 0 | 0| 🟢 | 🟠 |  |
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Sorting) | 0 | 0| 🟢 | 🔴 |  |
