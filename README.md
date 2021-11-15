@@ -25,7 +25,7 @@
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
 | [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 20 | 7 | 🔴 | 🔴  |  |
-| Total (Shared)| 172 | 33 | | |
+| Total (Shared)| 172 | 45 | | |
 
 ---
 
