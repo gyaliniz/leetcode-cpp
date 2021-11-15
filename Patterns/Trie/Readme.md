@@ -10,5 +10,5 @@
 | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Go](<../Trie/Solutions/472. Concatenated Words.md>) | 🔴 |  |
 | [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [Go](<../Trie/Solutions/745. Prefix and Suffix Search.md>) | 🔴 |  |
 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Go](<../Trie/Solutions/336. Palindrome Pairs.md>) | 🔴 |  |
-| [642 Design Search Autocomplete System]() | [Go](<../Trie/Solutions/642 Design Search Autocomplete System.md>) | 🔴 | 🔴 |
+| [642. Design Search Autocomplete System]() | [Go](<../Trie/Solutions/642. Design Search Autocomplete System.md>) | 🔴 | 🔴 |
 | [425. Word Squares](https://leetcode.com/problems/word-squares/) | [Go](<../Trie/Solutions/425. Word Squares.md>) | 🔴 | 🔴 |

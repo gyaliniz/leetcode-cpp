@@ -3,7 +3,7 @@
 | Leetcode  | Solution | Difficulty | Solved |
 | --- | --- | --- | --- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](<../Arrays/Solutions/217. Contains Duplicate.md>) | 🟢 | ✅ |
-| [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Go](<../Arrays/Solutions/268. Missing Number.md>) | 🟢 | |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Go](<../Arrays/Solutions/268. Missing Number.md>) | 🟢 | ✅ |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Go](<../Arrays/Solutions/448. Find All Numbers Disappeared in an Array.md>) | 🟢 | ✅  |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Go](<../Arrays/Solutions/136. Single Number.md>) | 🟢 | ✅ |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Go](<../Arrays/Solutions/238. Product of Array Except Self.md>) | 🟠 | ✅ |
