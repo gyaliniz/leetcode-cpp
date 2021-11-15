@@ -12,15 +12,15 @@
 | [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6 | 1| 🟢 | 🟠 |  |
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 1 | 0| 🟢 | 🔴 |  |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window) | 10 | 1| 🟠 | 🟢 |   |
-| [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)| 11 | 7 | 🟠 | 🟢 |  |
-| [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs) | 0 | 0| 🟠 | 🟢 |   |
+| [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)| 12 | 8 | 🟠 | 🟢 |  |
+| [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs) | 19 | 0| 🟠 | 🟢 |   |
 | [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap) | 0 | 0| 🟠 | 🟢 |  |
 | [Trie](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Trie) | 8 | 0 | 🟠 | 🟠 |  |
 | [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design) | 2 | 0| 🟠 | 🟠 |   |
 | [Intervals](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Intervals) | 6 | 0| 🟠 | 🟠 | |
 | [Bucket Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bucket%20Sort) | 1 | 0| 🟠 | 🔴 |  |
 | [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 6 | 0| 🟠 | 🔴 |  |
-| [Graph](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Graph) | 0 | 0| 🔴 | 🟢 |   |
+| [Graph](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Graph) | - | 0 | 🔴 | 🟢 |   |
 | [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 6 | 0| 🔴 | 🟠 |  |
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
