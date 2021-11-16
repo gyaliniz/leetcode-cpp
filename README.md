@@ -9,8 +9,8 @@
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bit%20Manipulation) | 1 | 1 | 🟢 | 🟢 | ✅ |
 | [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers) | 10 | 5 | 🟢 | 🟢 |   |
 | [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers) | 8 | 5 | 🟢 | 🟢 |   |
-| [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6 | 1| 🟢 | 🟠 |  |
-| [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 1 | 0| 🟢 | 🔴 |  |
+| [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6 | 3 | 🟢 | 🟠 |  |
+| [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting) | 1 | 1| 🟢 | 🔴 |  |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window) | 10 | 1| 🟠 | 🟢 |   |
 | [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)| 12 | 8 | 🟠 | 🟢 |  |
 | [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs) | 19 | 0| 🟠 | 🟢 |   |

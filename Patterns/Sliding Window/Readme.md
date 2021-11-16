@@ -2,7 +2,7 @@
 
 | Leetcode  | Solution | Difficulty | Solved |
 | --- | --- | --- | --- |
-| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Go](<../Sliding Window/Solutions/209. Minimum Size Subarray Sum.md>) | 🟠 |  |
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Go](<../Sliding Window/Solutions/209. Minimum Size Subarray Sum.md>) | 🟠 | ✅ |
 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Go](<../Sliding Window/Solutions/904. Fruit Into Baskets.md>) | 🟠 |  |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Go](<../Sliding Window/Solutions/567. Permutation in String.md>) | 🟠 |  |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Go](<../Sliding Window/Solutions/424. Longest Repeating Character Replacement.md>) | 🟠 |  |
