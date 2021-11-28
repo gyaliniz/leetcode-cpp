@@ -5,7 +5,7 @@
 | Pattern  | Question | Completed | Difficulty | ROI | Solved |
 | --- | --- | --- | --- | --- | --- |
 | [Array](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Arrays)| 12 | 12 | 🟢 | 🟢 | ✅ |
-| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Binary%20Search) | 13 | 8 | 🟢 | 🟢 |  |
+| [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Binary%20Search) | 13 | 11 | 🟢 | 🟢 |  |
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bit%20Manipulation) | 1 | 1 | 🟢 | 🟢 | ✅ |
 | [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers) | 10 | 5 | 🟢 | 🟢 |   |
 | [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers) | 8 | 5 | 🟢 | 🟢 |   |
