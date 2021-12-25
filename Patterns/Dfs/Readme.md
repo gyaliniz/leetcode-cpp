@@ -3,7 +3,7 @@
 | Leetcode  | Solution | Difficulty | Solved |
 | --- | --- | --- | --- |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Go](<../Bfs/Solutions/111. Minimum Depth of Binary Tree.md>) | 🟢 | ✅ |
-| [100. Same Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Go](<../Dfs/Solutions/100. Same Tree.md>) | 🟢 |  |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Go](<../Dfs/Solutions/100. Same Tree.md>) | 🟢 |  |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [Go](<../Dfs/Solutions/112. Path Sum.md>) | 🟢 |  |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Go](<../Dfs/Solutions/543. Diameter of Binary Tree.md>) | 🟢 |  |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Go](<../Dfs/Solutions/617. Merge Two Binary Trees.md>) | 🟢 |  |
