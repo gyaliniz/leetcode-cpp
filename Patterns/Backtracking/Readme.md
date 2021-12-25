@@ -6,7 +6,7 @@
 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Go](<../Backtracking/Solutions/784. Letter Case Permutation.md>) | 🟠 |   |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | [Go](<../Backtracking/Solutions/78. Subsets.md>) | 🟠 |   |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [Go](<../Backtracking/Solutions/90. Subsets II.md>) | 🟠 |   |
-| [46. Permutations](https://leetcode.com/problems/permutations/) | [Go](<../Backtracking/Solutions/46. Permutations.md>) | 🟠 |   |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | [Go](<../Backtracking/Solutions/46. Permutations.md>) | 🟠 |  🟢 |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [Go](<../Backtracking/Solutions/47. Permutations II.md>) | 🟠 |   |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | [Go](<../Backtracking/Solutions/77. Combinations.md>) | 🟠 |   |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Go](<../Backtracking/Solutions/39. Combination Sum.md>) | 🟠 |   |
