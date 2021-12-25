@@ -19,7 +19,7 @@
 | [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design) | 2 | 0| 🟠 | 🟠 |   |
 | [Intervals](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Intervals) | 6 | 0| 🟠 | 🟠 | |
 | [Bucket Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bucket%20Sort) | 1 | 0| 🟠 | 🔴 |  |
-| [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 6 | 0| 🟠 | 🔴 |  |
+| [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 3 | 1 | 🟠 | 🔴 |  |
 | [Graph](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Graph) | - | 0 | 🔴 | 🟢 |   |
 | [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 6 | 0| 🔴 | 🟠 |  |
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
