@@ -24,7 +24,7 @@
 | [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 6 | 0| 🔴 | 🟠 |  |
 | [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
-| [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 20 | 7 | 🔴 | 🔴  |  |
+| [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 22 | 8 | 🔴 | 🔴  |  |
 | Total (Shared)| 172 | 49 | | |
 
 ---
