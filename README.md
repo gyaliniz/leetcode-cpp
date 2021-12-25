@@ -22,10 +22,10 @@
 | [Union Find](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Union%20Find) | 3 | 1 | 🟠 | 🔴 |  |
 | [Graph](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Graph) | - | 0 | 🔴 | 🟢 |   |
 | [Topological Sort](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Topological%20Sort) | 6 | 0| 🔴 | 🟠 |  |
-| [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 0| 🔴 | 🟠 |  |
+| [Backtracking](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Backtracking) | 16 | 1 | 🔴 | 🟠 |  |
 | [Greedy](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Greedy) | 5 | 0| 🔴 | 🔴  |  |
 | [Dynamic Programming](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dynamic%20Programming) | 22 | 8 | 🔴 | 🔴  |  |
-| Total (Shared)| 172 | 49 | | |
+| Total (Shared)| ? | ? | | |
 
 ---
 
