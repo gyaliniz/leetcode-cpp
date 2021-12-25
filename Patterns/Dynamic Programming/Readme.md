@@ -13,7 +13,7 @@
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | [Go](<../Dynamic Programming/Solutions/322. Coin Change.md>) | 🟠 |  ✅ |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Go](<../Dynamic Programming/Solutions/152. Maximum Product Subarray.md>) | 🟠 |✅ |
 | [300. Longest Increasing Subsequence]() | [Go](<../Dynamic Programming/Solutions/300. Longest Increasing Subsequence.md>) | 🟠 | |
-| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](<../Dynamic Programming/Solutions/5. Longest Palindromic Substring.md>) | 🟠 | |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](<../Dynamic Programming/Solutions/5. Longest Palindromic Substring.md>) | 🟠 | ✅  |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [Go](<../Dynamic Programming/Solutions/139. Word Break.md>) | 🟠 | |
 | [377. Combination Sum IV]() | [Go](<../Dynamic Programming/Solutions/377. Combination Sum IV.md>) | 🟠 | |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | [Go](<../Dynamic Programming/Solutions/91. Decode Ways.md>) | 🟠 | |
