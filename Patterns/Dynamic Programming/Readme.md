@@ -15,7 +15,7 @@
 | [300. Longest Increasing Subsequence]() | [Go](<../Dynamic Programming/Solutions/300. Longest Increasing Subsequence.md>) | 🟠 | |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](<../Dynamic Programming/Solutions/5. Longest Palindromic Substring.md>) | 🟠 | ✅  |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [Go](<../Dynamic Programming/Solutions/139. Word Break.md>) | 🟠 | |
-| [377. Combination Sum IV]() | [Go](<../Dynamic Programming/Solutions/377. Combination Sum IV.md>) | 🟠 | |
+| [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Go](<../Dynamic Programming/Solutions/377. Combination Sum IV.md>) | 🟠 | |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | [Go](<../Dynamic Programming/Solutions/91. Decode Ways.md>) | 🟠 | |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](<../Dynamic Programming/Solutions/62. Unique Paths.md>) | 🟠 | |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Go](<../Dynamic Programming/Solutions/55. Jump Game.md>) | 🟠 |   |
