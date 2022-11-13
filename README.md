@@ -13,7 +13,7 @@
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting)                                                             | 1        | 1         | 🟢         | 🔴  | ✅     |
 | [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window)                                             | 10       | 3         | 🟠         | 🟢  |        |
 | [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)                                                                     | 12       | 8         | 🟠         | 🟢  |        |
-| [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs)                                                                     | 19       | 3         | 🟠         | 🟢  |        |
+| [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs)                                                                     | 19       | 5         | 🟠         | 🟢  |        |
 | [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap)                                                                   | 10       | 1         | 🟠         | 🟢  |        |
 | [Trie](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Trie)                                                                   | 8        | 0         | 🟠         | 🟠  |        |
 | [Design](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Design)                                                               | 2        | 0         | 🟠         | 🟠  |        |
