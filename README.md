@@ -7,7 +7,7 @@
 | [Array](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Arrays)                                                                | 12       | 12        | 🟢         | 🟢  | ✅     |
 | [Binary Search](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Binary%20Search)                                               | 13       | 12        | 🟢         | 🟢  |        |
 | [Bit Manipulation](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bit%20Manipulation)                                         | 1        | 1         | 🟢         | 🟢  | ✅     |
-| [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers)                                   | 10       | 9         | 🟢         | 🟢  |        |
+| [Fast Slow Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Fast%20Slow%20Pointers)                                   | 10       | 10        | 🟢         | 🟢  | 🟢     |
 | [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers)                                                 | 8        | 5         | 🟢         | 🟢  |        |
 | [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6        | 3         | 🟢         | 🟠  |        |
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting)                                                             | 1        | 1         | 🟢         | 🔴  | ✅     |
