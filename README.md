@@ -11,7 +11,7 @@
 | [Two Pointers](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Two%20Pointers)                                                 | 10       | 8         | 🟢         | 🟢  |        |
 | [In Place Reversal of Linked List](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/In%20Place%20Reversal%20Of%20Linked%20List) | 6        | 3         | 🟢         | 🟠  |        |
 | [Sorting](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sorting)                                                             | 1        | 1         | 🟢         | 🔴  | ✅     |
-| [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window)                                             | 10       | 3         | 🟠         | 🟢  |        |
+| [Sliding Window](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Sliding%20Window)                                             | 10       | 4         | 🟠         | 🟢  |        |
 | [Bfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Bfs)                                                                     | 12       | 8         | 🟠         | 🟢  |        |
 | [Dfs](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Dfs)                                                                     | 19       | 5         | 🟠         | 🟢  |        |
 | [Heap](https://github.com/gyaliniz/leetcode-cpp/tree/main/Patterns/Heap)                                                                   | 10       | 1         | 🟠         | 🟢  |        |
